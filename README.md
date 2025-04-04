@@ -1,4 +1,4 @@
-# decoder
+# decoder script written in python
 usage: 
 
 In Windows :
