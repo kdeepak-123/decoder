@@ -15,10 +15,8 @@ options:
 Windows
 -------
 Example: decoder.py --b64 aGVsbG8=
-output = hello
 
 Linux
 -----
 chmod +x decoder.py
 Example : ./decoder.py --b64 aGVsbG8=
-output = hello
